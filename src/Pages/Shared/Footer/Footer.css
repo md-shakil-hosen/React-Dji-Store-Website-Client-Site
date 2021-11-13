@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&display=swap");
+.footerGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 7px;
+  text-align: start;
+  font-family: "Saira Semi Condensed", sans-serif;
+}
+.bg-custom {
+  background-color: white;
+}
+.footer-title {
+  color: #262626;
+  font-family: "Saira Semi Condensed", sans-serif;
+}
+.footer-p {
+  font-family: "Saira Semi Condensed", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.quick-link a {
+  text-decoration: none;
+  color: #262626;
+}
+ul {
+  list-style: none;
+}
+ul a:hover {
+  color: #ff4a52;
+}
+.fab {
+  color: #3fd0d3;
+  border: 1px solid #3fd0d3;
+  padding: 5px;
+  border-radius: 3px;
+}
+.fab:hover {
+  background-color: #3fd0d3;
+  color: white;
+  transition: ease 1s;
+}

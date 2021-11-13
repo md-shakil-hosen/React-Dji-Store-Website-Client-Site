@@ -1,66 +1,64 @@
-## Web Site Name : DJI Store
+# Web Site Name : DJI Store
 
-# Live Link :
+## Live Link :
 
-# Code Link :
+## Code Link :
 
-## About Web Site :
+# About Web Site :
 
 ---
 
-# This is a drone sales website, you can buy drones from here.
+## This is a drone sales website, you can buy drones from here.
 
 There is also a dashboard, from which you can get product management, add new product,
 customer reviews , I try good color combination , clear code and Responsive etc.
 
-## Website Advantage :
+# Website Advantage :
 
 ---
 
-# 1. Drone Camera.
+## 1. Drone Camera.
 
-# 2. User Login Advantage
+## 2. User Login Advantage
 
-# 3. New User register advantage
+## 3. New User register advantage
 
-# 4. Product Management
+## 4. Product Management
 
-# 4. Buy product
+## 4. Buy product
 
-# 5. Order Management
+## 5. Order Management
 
-# 6. Make new Admin
+## 6. Make new Admin
 
-# 7. Add New Product
+## 7. Add New Product
 
-# 8. Product Review
+## 8. Product Review
 
-## What i used tools :
+# What i used tools :
 
 ---
 
-# 1. HTML
+## 2. CSS
 
-# 2. CSS
+## 3. React Bootstrap
 
-# 3. React Bootstrap
+## 4. NodeJs
 
-# 4. NodeJs
+## 5. ReactJs
 
-# 5. ReactJs
+## 5. React Router
 
-# 5. React Router
+## 6. Firebase
 
-# 6. Firebase
+## 7. Heroku
 
-# 7. Heroku
+## 8. MongoDB
 
-# 8. MongoDB
+## 9. Google AuthProvider
 
-# 9. Google AuthProvider
+## 10. Context API ect .
 
-# 10. Context API ect .
+# Buying the Drone , Enjoy the Fly
 
-## Buying the Drone , Enjoy the Fly
-
-# Code Is Brain
+## Code Is Brain
